@@ -1,0 +1,5 @@
+20230718 18:15:31 INFO  [main] test.E2ETestScripts E2ETestScripts.java175 - Begin Fetch_Employeedata by Given Emp_Id
+20230718 18:15:32 INFO  [main] helpers.BaseService BaseService.java104 - Fetching Employee data of Id=2
+20230718 18:15:33 INFO  [main] test.E2ETestScripts E2ETestScripts.java189 - Status code : 200
+20230718 18:15:33 INFO  [main] test.E2ETestScripts E2ETestScripts.java196 - Content is : application/json
+20230718 18:15:33 INFO  [main] test.E2ETestScripts E2ETestScripts.java208 - End Fetch_Employeedata by Given Emp_Id
